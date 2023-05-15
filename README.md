@@ -27,10 +27,17 @@ Code to reproduce the results and plots of the study on observed morphology and 
 - **fval_uhh_wrx_l3_rr_v00_20210629.nc**: Level 3 data of interpolated rainfall rates of X-band rain radar
 
 ## Requirements
-(List of python package versions)
+- cartopy 0.17.0
+- matplotlib 3.3.4
+- netcdf4 1.5.3
+- numpy 1.20.1
+- pandas 1.2.4
+- pykrige 1.6.1
+- scipy 1.6.2
+- xarray 0.18.0
 
 ## References
-- Hohenegger, C. and the FESSTVaL team (2023): *FESSTVaL: the Field Experiment on Submesoscale Spatio-Temporal Variability in Lindenberg*, submitted to Bull. Am. Meteorol. Soc.
+- Hohenegger, C. and the FESSTVaL team (2023): *FESSTVaL: the Field Experiment on Submesoscale Spatio-Temporal Variability in Lindenberg*, Bull. Am. Meteorol. Soc. (in review)
 - Kirsch, B., Hohenegger, C., Klocke, D., Senke, R., Offermann, M., and Ament, F. (2022): *Sub-mesoscale observations of convective cold pools with a dense station network in Hamburg, Germany*, Earth Syst. Sci. Data, 14, 3531–3548, https://doi.org/10.5194/essd-14-3531-2022. 
 
 ## Data sets and code
@@ -49,4 +56,4 @@ Bastian Kirsch (bastian.kirsch@uni-hamburg.de)<br>
 Felix Ament (felix.ament@uni-hamburg.de)<br>
 Meteorologisches Institut, Universität Hamburg, Germany
 
-9 February 2023
+Last updated: 15 May 2023
