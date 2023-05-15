@@ -28,6 +28,7 @@ Code to reproduce the results and plots of the study on observed morphology and 
 
 ## Requirements
 - cartopy 0.17.0
+- geopy 2.2.0
 - matplotlib 3.3.4
 - netcdf4 1.5.3
 - numpy 1.20.1
