@@ -12,8 +12,7 @@ Code to reproduce the results and plots of the study on observed morphology and 
 - **fesstval_map.py**: Plots map of FESSTVaL measurement locations
 - **fesstval_cp_overview.py**: Reads APOLLO and WXT level 2 data, calculates temperature perturbations for cold pool events, and plots event overview of distributions of temperature perturbations
 - **radar_level2_to_level3.py**: Reads level 2 data of X-band radar measurements, performs nearest-neighbor interpolation from native polar grid onto cartesian grid, and writes level 3 data (corresponding to format of interpolated station data) 
-- **fesstval_routines.py**: Routines specific to FESSTVaL data (e. g., read functions)
-- **standard_routines.py**: Generic routines used by most of the other scripts (not all routines are actually used)
+- **fesstval_routines.py**: Routines for reading, processing, and analyzing FESSTVaL data
 
 ### Meta data
 - **stations_fessthh.txt**: Meta data of APOLLO and WXT stations for FESST@HH 2020
@@ -57,4 +56,4 @@ Bastian Kirsch (bastian.kirsch@uni-hamburg.de)<br>
 Felix Ament (felix.ament@uni-hamburg.de)<br>
 Meteorologisches Institut, Universität Hamburg, Germany
 
-Last updated: 15 May 2023
+Last updated: 16 May 2023
