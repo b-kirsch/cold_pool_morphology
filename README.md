@@ -16,9 +16,9 @@ Code to reproduce the results and plots of the study on observed morphology and 
 
 ### Meta data
 - **stations_fessthh.txt**: Meta data of APOLLO and WXT stations for FESST@HH 2020
-- **stations_fesstval.txt**: Meta data of APOLLO and WXT stations for FESSTVaL 2020
+- **stations_fesstval.txt**: Meta data of APOLLO and WXT stations for FESSTVaL 2021
 - **cold_pools_fessthh.txt**: List of cold pool events during FESST@HH 2020
-- **cold_pools_fesstval.txt**: List of cold pool events during FESSTVaL 2020
+- **cold_pools_fesstval.txt**: List of cold pool events during FESSTVaL 2021
 
 ### Example data
 - **fval_uhh_apollowxt_l3_ta_v00_20210629.nc**: Level 3 data of interpolated temperature perturbations of APOLLO and WXT stations
