@@ -1,5 +1,7 @@
 # cold_pool_morphology
 
+[![DOI](https://zenodo.org/badge/599507723.svg)](https://zenodo.org/badge/latestdoi/599507723)
+
 ## Overview
 Code to reproduce the results and plots of the study "Morphology and growth of convective cold pools observed by a dense station network in Germany" by B. Kirsch, C. Hohenegger, and F. Ament submitted to QJRMS. Primary data are the observational data sets of APOLLO and WXT weather stations as well as an X-band rain radar during the FESSTVaL 2021 field experiment (Hohenegger et al., 2023) and the precursor FESST@HH 2020 (Kirsch et al., 2022). The respective data sets are openly available for download.
 
