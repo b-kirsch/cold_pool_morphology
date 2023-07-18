@@ -1,7 +1,7 @@
 # cold_pool_morphology
 
 ## Overview
-Code to reproduce the results and plots of the study on observed morphology and growth of convective cold pools by B. Kirsch, C. Hohenegger, and F. Ament. Data sources are the observations of a dense surface-based network of custom-designed APOLLO and WXT weather stations as well as an X-band rain radar during the FESSTVaL 2021 field experiment (Hohenegger et al., 2023) and the precursor FESST@HH 2020 (Kirsch et al., 2022). The respective data sets are openly available for download.
+Code to reproduce the results and plots of the study "Morphology and growth of convective cold pools observed by a dense station network in Germany" by B. Kirsch, C. Hohenegger, and F. Ament submitted to QJRMS. Primary data are the observational data sets of APOLLO and WXT weather stations as well as an X-band rain radar during the FESSTVaL 2021 field experiment (Hohenegger et al., 2023) and the precursor FESST@HH 2020 (Kirsch et al., 2022). The respective data sets are openly available for download.
 
 ## Description of files
 ### Code
@@ -10,8 +10,8 @@ Code to reproduce the results and plots of the study on observed morphology and 
 - **cp_spatial_analysis.py**: Routines needed for spatial interpolation and cluster analysis used by fesstval_interpolation.py and fesstval_cp_morph.py
 - **fesstval_plots.py**: Plot routines used by fesstval_cp_morph.py
 - **fesstval_map.py**: Plots map of FESSTVaL measurement locations
-- **fesstval_cp_overview.py**: Reads APOLLO and WXT level 2 data, calculates temperature perturbations for cold pool events, and plots event overview of distributions of temperature perturbations
-- **radar_level2_to_level3.py**: Reads level 2 data of X-band radar measurements, performs nearest-neighbor interpolation from native polar grid onto cartesian grid, and writes level 3 data (corresponding to format of interpolated station data) 
+- **fesstval_cp_overview.py**: Reads APOLLO and WXT level 2 data, calculates temperature perturbations for cold pool events, and plots overview of events
+- **radar_level2_to_level3.py**: Reads level 2 data of X-band radar, performs nearest-neighbor interpolation from native polar grid onto cartesian grid, and writes level 3 data (corresponding to format of interpolated station data) 
 - **fesstval_routines.py**: Routines for reading, processing, and analyzing FESSTVaL data
 
 ### Meta data
@@ -56,4 +56,4 @@ Bastian Kirsch (bastian.kirsch@uni-hamburg.de)<br>
 Felix Ament (felix.ament@uni-hamburg.de)<br>
 Meteorologisches Institut, Universität Hamburg, Germany
 
-Last updated: 16 May 2023
+Last updated: 18 July 2023
