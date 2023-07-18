@@ -1,0 +1,38 @@
+#DATE;TIME(UTC);NAME;DIR_OF_MOVEMENT;DESCRIPTION
+20200603;1500;;NE;slowly-moving linear convective system triggering cells ahead
+20200604;1000;;N;convective cells triggered ahead of frontal system, heavy precipitation over western parts of city
+20200607;1200;;NE;weak showers over NW parts of city
+20200607;1400;;NE;weakening convective cluster over city center
+20200613;1600;;NW;strong clustered convective cells
+20200618;1300;;NW;slowly-moving heavy-precipitating convective cluster over S parts of city
+20200625;1400;;W;scattered showers
+20200627;0900;;N;very small isolated shower over N parts of city
+20200627;1300;;NE;strong convective cells over central and SE parts of city
+20200627;1700;;NE;heavy-precipitating convective clusters over SE and central parts of city
+20200628;0800;;NE;convective line
+20200628;1900;;NE;weakening convective cluster over NW parts of city
+20200629;1100;;NE;weak showers over SE and central parts of city
+20200701;1400;;NE;weak clustered showers 
+20200701;1800;;E;strong convective line
+20200702;1100;;NE;wide-spread scattered showers
+20200702;1500;;NE;shower cluster over southern parts of city
+20200706;0800;;E;convective line followed by several hours of wide-spread shower acivity
+20200707;1300;;NE;weak scattered showers
+20200711;0900;;E;weak scattered showers
+20200715;1200;;E;convective line forming over SE parts of city
+20200719;1400;;NE;short-lived isolated convective cells
+20200721;0900;;E;weak scattered showers
+20200726;1000;;E;scattered showers
+20200726;1400;;NE;isolated convective cells over city center
+20200726;1800;;NE;isolated convective cells over SE parts of city
+20200802;1400;;E;convective line associated with frontal system
+20200810;1200;Elphi;W;almost stationary cluster of heavy-precipitating cells over SE parts of city
+20200817;1200;;NW;strong convective cell over central parts of city
+20200818;1200;;NE;scattered showers
+20200821;2100;;NE;very small isolated convective cell over city center
+20200822;1400;;NE;scattered showers
+20200823;1300;;NE;scattered showers
+20200824;1100;;E;convective line
+20200824;1500;;E;convective line
+20200827;0800;;SE;weak scattered showers
+20200828;1200;;NE;short-lived isolated convective cells
