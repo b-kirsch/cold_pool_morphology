@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/599507723.svg)](https://zenodo.org/badge/latestdoi/599507723)
 
 ## Overview
-Code to reproduce the results and plots of the study "Morphology and growth of convective cold pools observed by a dense station network in Germany" by B. Kirsch, C. Hohenegger, and F. Ament submitted to QJRMS. Primary data are the observational data sets of APOLLO and WXT weather stations as well as an X-band rain radar during the FESSTVaL 2021 field experiment (Hohenegger et al., 2023) and the precursor FESST@HH 2020 (Kirsch et al., 2022). The respective data sets are openly available for download.
+Code to reproduce the results and plots of the study "Morphology and growth of convective cold pools observed by a dense station network in Germany" by Kirsch et al., 2024, QJRMS. Primary data are the observational data sets of APOLLO and WXT weather stations as well as an X-band rain radar during the FESSTVaL 2021 field experiment (Hohenegger et al., 2023) and the precursor FESST@HH 2020 (Kirsch et al., 2022). The respective data sets are openly available for download.
 
 ## Description of files
 ### Code
@@ -39,7 +39,8 @@ Code to reproduce the results and plots of the study "Morphology and growth of c
 - xarray 0.18.0
 
 ## References
-- Hohenegger, C. and the FESSTVaL team (2023): *FESSTVaL: the Field Experiment on Submesoscale Spatio-Temporal Variability in Lindenberg*, Bull. Am. Meteorol. Soc. (in review)
+- Hohenegger, C. and 51 co-authors (2023): *FESSTVaL: the Field Experiment on Submesoscale Spatio-Temporal Variability in Lindenberg*, Bull. Am. Meteorol. Soc., 104, E1875–E1892, https://doi.org/10.1175/BAMS-D-21-0330.1.
+- Kirsch, B., Hohenegger, C., and Ament, F. (2024): *Morphology and growth of convective cold pools observed by a dense station network in Germany*, Q. J. Roy. Meteor. Soc., 150, 857–876, https://doi.org/10.1002/QJ.4626.
 - Kirsch, B., Hohenegger, C., Klocke, D., Senke, R., Offermann, M., and Ament, F. (2022): *Sub-mesoscale observations of convective cold pools with a dense station network in Hamburg, Germany*, Earth Syst. Sci. Data, 14, 3531–3548, https://doi.org/10.5194/essd-14-3531-2022. 
 
 ## Data sets and code
@@ -58,4 +59,4 @@ Bastian Kirsch (bastian.kirsch@uni-hamburg.de)<br>
 Felix Ament (felix.ament@uni-hamburg.de)<br>
 Meteorologisches Institut, Universität Hamburg, Germany
 
-Last updated: 18 July 2023
+Last updated: 11 March 2024
